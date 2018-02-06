@@ -59,7 +59,7 @@ public class SearchByWord {
 					
 		// Get book amount from product page (Before it was added to the Shopping Cart)
 		String amountBefore = driver.findElement(By.id("buyNewSection")).getText();
-		String amountExpected = "$16.59";
+		String amountExpected = "$16.60";
 			   		
 	    // Validation 1: Assert book amount before it was added to the Shopping Cart
 		Assert.assertTrue(amountBefore.contains(amountExpected));
