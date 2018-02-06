@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33165" started-at="2018-02-06T20:31:28Z" finished-at="2018-02-06T20:32:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33165" started-at="2018-02-06T20:31:28Z" finished-at="2018-02-06T20:32:01Z">
+      <class name="TestCases.SearchByWord">
+        <test-method status="PASS" signature="CheckWord()[pri:0, instance:TestCases.SearchByWord@23faf8f2]" name="CheckWord" duration-ms="33130" started-at="2018-02-06T12:31:28Z" finished-at="2018-02-06T12:32:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckWord -->
+      </class> <!-- TestCases.SearchByWord -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
